@@ -40,4 +40,3 @@ jobs:
           push: true
           tags: | #
             gisgarme/test_5:latest
-            ghcr.io/gisgarme/test_5:latest
